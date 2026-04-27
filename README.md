@@ -1,4 +1,4 @@
-# TaskFlow — To-Do List App
+# To-Do List — To-Do List App
 
 Aplicación fullstack de gestión de tareas con autenticación JWT. Cada usuario puede registrarse, iniciar sesión y administrar sus propias tareas de forma privada.
 

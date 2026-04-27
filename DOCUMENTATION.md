@@ -1,4 +1,4 @@
-# Documentación Técnica — TaskFlow
+# Documentación Técnica — To-Do List
 
 **Proyecto:** To-Do List App — Pay-Pros  
 **Autor:** Mathías ([@mathirodao](https://github.com/mathirodao))  
@@ -8,7 +8,7 @@
 
 ## 1. Descripción general
 
-TaskFlow es una aplicación de gestión de tareas fullstack que permite a los usuarios registrarse, autenticarse y administrar sus propias tareas de forma segura. Cada usuario solo accede a sus propias tareas — no hay visibilidad cruzada entre cuentas.
+To-Do List es una aplicación de gestión de tareas fullstack que permite a los usuarios registrarse, autenticarse y administrar sus propias tareas de forma segura. Cada usuario solo accede a sus propias tareas — no hay visibilidad cruzada entre cuentas.
 
 La aplicación cumple con todos los requisitos funcionales especificados:
 
